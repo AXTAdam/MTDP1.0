@@ -1,6 +1,6 @@
 # Music Therapy Knowledge Database
 
-This repository provides the public data tables, figure previews, and LLM-assisted extraction notebooks for a music therapy knowledge database project.
+We provide the public data tables, figure previews, and LLM-assisted extraction notebooks for a music therapy knowledge database project.
 
 ## Repository Contents
 
@@ -18,7 +18,6 @@ This repository provides the public data tables, figure previews, and LLM-assist
 └── README.md
 ```
 
-The original unstandardized master table `SummaryofKnowledgeBaseData.xlsx` is intentionally not included.
 
 ## Data Files
 
@@ -58,17 +57,15 @@ pip install -r requirements.txt
 
 ## Figure Preview
 
-GitHub README pages reliably display PNG files. Therefore, Figure 4 to Figure 8 are included as PNG previews:
 
 | Figure | Preview |
 | --- | --- |
-| Figure 4 | ![Figure 4](figures/preview/Figure4.PNG) |
-| Figure 5 | ![Figure 5](figures/preview/Figure5.PNG) |
-| Figure 6 | ![Figure 6](figures/preview/Figure6.PNG) |
-| Figure 7 | ![Figure 7](figures/preview/Figure7.PNG) |
-| Figure 8 | ![Figure 8](figures/preview/Figure8.PNG) |
+| Figure 1 | ![Figure 4](figures/preview/Figure4.PNG) |
+| Figure 2 | ![Figure 5](figures/preview/Figure5.PNG) |
+| Figure 3 | ![Figure 6](figures/preview/Figure6.PNG) |
+| Figure 4 | ![Figure 7](figures/preview/Figure7.PNG) |
+| Figure 5 | ![Figure 8](figures/preview/Figure8.PNG) |
 
-`Figure4.tiff` is also included in `figures/high_resolution/` because it is small enough for standard GitHub upload. The original high-resolution TIFF files for Figure 5 to Figure 8 are larger than GitHub's normal 100 MB per-file limit and should be uploaded with Git LFS or attached as release assets if needed.
 
 ## Recommended Citation
 
@@ -79,3 +76,7 @@ Please cite the related manuscript when using this dataset or code. Update this 
 This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated.
 
 The data tables, figures, and accompanying extraction notebooks may be reused with appropriate attribution. See `LICENSE` for details.
+
+## Contact
+For technical questions please open issue, or contact:
+- Zhichuan Xu <zhichuanxu2001@163.com>
