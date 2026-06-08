@@ -1,0 +1,30 @@
+# Secrets and local configuration
+.env
+*.env
+secrets.*
+
+# Local PDFs and extraction outputs
+*.pdf
+pdfs/
+PDFs/
+full_text/
+full-text/
+*_output.xlsx
+*_llm_output.xlsx
+
+# Excluded original master table
+SummaryofKnowledgeBaseData.xlsx
+rawData/SummaryofKnowledgeBaseData.xlsx
+data/SummaryofKnowledgeBaseData.xlsx
+
+# Python and Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
