@@ -1,7 +1,7 @@
 # Music Therapy Knowledge Database
 
 We provide the public data tables, figure previews, and LLM-assisted extraction notebooks for a music therapy knowledge database project.
-| Figure 1 | ![Figure 4](figures/preview/Figure4.PNG) |
+| ![Figure 4](figures/preview/Figure4.PNG) |
 ## Repository Contents
 
 ```text
@@ -60,10 +60,10 @@ pip install -r requirements.txt
 
 | Figure | Preview |
 | --- | --- |
-| Figure 2 | ![Figure 5](figures/preview/Figure5.PNG) |
-| Figure 3 | ![Figure 6](figures/preview/Figure6.PNG) |
-| Figure 4 | ![Figure 7](figures/preview/Figure7.PNG) |
-| Figure 5 | ![Figure 8](figures/preview/Figure8.PNG) |
+| Figure 1 | ![Figure 5](figures/preview/Figure5.PNG) |
+| Figure 2 | ![Figure 6](figures/preview/Figure6.PNG) |
+| Figure 3 | ![Figure 7](figures/preview/Figure7.PNG) |
+| Figure 4 | ![Figure 8](figures/preview/Figure8.PNG) |
 
 
 ## Recommended Citation
