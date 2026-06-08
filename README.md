@@ -1,7 +1,7 @@
 # Music Therapy Knowledge Database
 
 We provide the public data tables, figure previews, and LLM-assisted extraction notebooks for a music therapy knowledge database project.
-| ![Figure 4](figures/preview/Figure4.PNG) |
+ ![Figure 4](figures/preview/Figure4.PNG) 
 ## Repository Contents
 
 ```text
