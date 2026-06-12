@@ -12,8 +12,6 @@ We provide the public data tables, figure previews, and LLM-assisted extraction 
 ├── figures/
 │   ├── preview/               # PNG previews for GitHub display
 │   └── high_resolution/       # High-resolution figure files that are small enough for normal GitHub upload
-├── docs/
-│   └── github_deployment.md   # Step-by-step GitHub upload notes
 ├── requirements.txt           # Python dependencies for the extraction notebooks
 └── README.md
 ```
